@@ -13,11 +13,7 @@ Files
 index.html: This file contains the HTML markup for the web application.
 c.css: This file contains the CSS styles for the web application.
 script.js: This file contains the JavaScript code that handles the logic of the web application.
-Authors
-This code was written by an unknown author.
 
-License
-This code has no specified license.
 
 
 
